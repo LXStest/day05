@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d3baccf-9062-418e-84a7-e3c19881862a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/stepwise" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/.pytest_cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/.pytest_cache/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/.pytest_cache/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/.pytest_cache/v/cache/stepwise" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\pycharm\day06\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XgchUG8q4rsOysiBmmFnteKiSs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharm\day06" />
+      <recent name="E:\pycharm\day06\tools" />
+      <recent name="E:\pycharm\day06\log" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pycharm\day06\tools" />
+      <recent name="E:\pycharm\day06" />
+      <recent name="E:\pycharm\day06\" />
+      <recent name="E:\pycharm\day06\log" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day06" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day06" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/api_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_suite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day06" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_suite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test01_login.Test01.test_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="day06" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test01_login.Test01.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test02_employee.TestEmployee" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="day06" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test02_employee.TestEmployee&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.run_suite" />
+        <item itemvalue="Python tests.pytest for test01_login.Test01.test_login" />
+        <item itemvalue="Python.api_login" />
+        <item itemvalue="Python tests.pytest for test02_employee.TestEmployee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3baccf-9062-418e-84a7-e3c19881862a" name="Default Changelist" comment="" />
+      <created>1581471296557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581471296557</updated>
+    </task>
+    <task id="LOCAL-00001" summary="bbbb">
+      <created>1581678647021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581678647022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zzz">
+      <created>1581679996742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581679996742</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bbbb" />
+    <MESSAGE value="zzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="zzz" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581496922226">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1581496922226" />
+    <state x="370" y="0" key="CommitChangelistDialog2" timestamp="1581679994379">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="370" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1581679994379" />
+    <state x="525" y="255" key="FileChooserDialogImpl" timestamp="1581647838603">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="525" y="255" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1581647838603" />
+    <state x="780" y="360" width="373" height="171" key="Github.CreateGistDialog" timestamp="1581683486383">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="780" y="360" width="373" height="171" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1581683486383" />
+    <state x="560" y="446" width="274" height="208" key="Github.ShareDialog" timestamp="1581685049947">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="560" y="446" width="274" height="208" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1581685049947" />
+    <state x="1078" y="153" key="Github.UntrackedFilesDialog" timestamp="1581684043924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="1078" y="153" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1581684043924" />
+    <state width="1160" height="341" key="GridCell.Tab.0.bottom" timestamp="1581682482695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1160" height="341" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581682482695" />
+    <state width="1160" height="341" key="GridCell.Tab.0.center" timestamp="1581682482695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1160" height="341" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581682482695" />
+    <state width="1160" height="341" key="GridCell.Tab.0.left" timestamp="1581682482695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1160" height="341" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581682482695" />
+    <state width="1160" height="341" key="GridCell.Tab.0.right" timestamp="1581682482695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1160" height="341" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581682482695" />
+    <state width="1160" height="216" key="GridCell.Tab.1.bottom" timestamp="1581651146900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1160" height="216" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581651146900" />
+    <state width="1160" height="216" key="GridCell.Tab.1.center" timestamp="1581651146900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1160" height="216" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1581651146900" />
+    <state width="1160" height="216" key="GridCell.Tab.1.left" timestamp="1581651146900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1160" height="216" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1581651146900" />
+    <state width="1160" height="216" key="GridCell.Tab.1.right" timestamp="1581651146900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1160" height="216" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1581651146900" />
+    <state x="144" y="29" key="SettingsEditor" timestamp="1581685114205">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="144" y="29" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1581685114205" />
+    <state x="261" y="156" key="Vcs.Push.Dialog.v2" timestamp="1581684730514">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="261" y="156" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1581684730514" />
+    <state x="291" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1581675803420">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="291" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1581675803420" />
+    <state x="318" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1581503671375">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="318" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1581503671375" />
+    <state x="405" y="287" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581493808850">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="405" y="287" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.738@0.0.1366.738" timestamp="1581493808850" />
+  </component>
+</project>

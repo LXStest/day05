@@ -1,0 +1,7 @@
+[
+  "test02_employee.py::TestEmployee::test01_post",
+  "test02_employee.py::TestEmployee::test02_put",
+  "test02_employee.py::TestEmployee::test03_get",
+  "test02_employee.py::TestEmployee::test04_delete",
+  "test02_employee.py::TestEmployee::test01_post_0_toc_gz_108"
+]
